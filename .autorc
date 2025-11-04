@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "nafisaqil4",
+  "repo": "container-x3z70ua",
+  "name": "nafisaqil4",
+  "email": "nafisaqil.private@gmail.com",
+}
